@@ -13,5 +13,7 @@
 ![image](https://github.com/user-attachments/assets/0aba544b-65dc-4f5f-adcd-b4dea5576bf4)
 
 3. Halaman terima kasih.
-    Saat user mengklik button ok akan diarahkan ke halaman terima kasih.
+   
+   Saat user mengklik button ok akan diarahkan ke halaman terima kasih.
+   
 ![image](https://github.com/user-attachments/assets/77398f30-5301-4022-9cac-c9b37d808962)
