@@ -14,7 +14,7 @@ Saat user klik submit akan muncul popup berhasil.
 
 ## 3. Halaman terima kasih.
    
-Saat user mengklik button ok akan diarahkan ke halaman terima kasih dan terdapat button kembali
+Saat user mengklik button ok akan diarahkan ke halaman terima kasih dan terdapat button kembali ke form untuk kembali ke halaman form register.
    
 ![image](https://github.com/user-attachments/assets/77398f30-5301-4022-9cac-c9b37d808962)
 
