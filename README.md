@@ -1,6 +1,7 @@
 # ATS APP
 
-## Fitur 
+# Fitur 
+
 
 ## 1. Halaman Register
    Halaman ini merupakan halaman utama yang digunakan user untuk menginputkan nama dan juga email.
@@ -8,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/972c43a6-cdfd-4fd1-a782-13e274bb2f12)
 
 ## 2. Tampilan Pop Up
-    Saat user klik submit akan muncul popup berhasil.
+Saat user klik submit akan muncul popup berhasil.
 
 ![image](https://github.com/user-attachments/assets/0aba544b-65dc-4f5f-adcd-b4dea5576bf4)
 
