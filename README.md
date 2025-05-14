@@ -1,7 +1,4 @@
-# ATS APP
-
-# Fitur 
-
+# ATS APP - Fitur 
 
 ## 1. Halaman Register
 
